@@ -27,10 +27,10 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+ # social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: drsiobahncday
+  # facebook: drsiobahncday
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -38,10 +38,10 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-   twitter: drsiobahncday
+  # twitter: drsiobahncday
   # unsplash: your_username
   # vk: your_username
-   website: http://siobahncday.com
+  # website: http://siobahncday.com
   # youtube: your_username
 
 topics:
